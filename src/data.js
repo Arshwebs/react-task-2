@@ -1,0 +1,42 @@
+export const cardsData = [
+	{
+		productType: "Fancy Product",
+		isSale: false,
+		isStar: false,
+		img: "",
+		offerPrice: "",
+		standardPrice: "$40.00 - $80.00",
+	},
+	{
+		productType: "Special Item",
+		isSale: true,
+		isStar: true,
+		img: "",
+		offerPrice: "$20.00",
+		standardPrice: "$18.00",
+	},
+	{
+		productType: "Sale Item",
+		isSale: true,
+		isStar: false,
+		img: "",
+		offerPrice: "$50.00",
+		standardPrice: "$25.00",
+	},
+	{
+		productType: "Popular Item",
+		isSale: false,
+		isStar: true,
+		img: "",
+		offerPrice: "",
+		standardPrice: "$40.00",
+	},
+	{
+		productType: "Fancy Product",
+		isSale: false,
+		isStar: false,
+		img: "",
+		offerPrice: "",
+		standardPrice: "$120.00 - $280.00",
+	},
+];
